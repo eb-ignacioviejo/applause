@@ -1,5 +1,5 @@
 # **App**lause
-Fills-in umconfortable silence with applauses
+Fills-in uncomfortable silence with applauses
 
 
 - Concept by Iñigo Andiarena & Walter Belenky
